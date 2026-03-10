@@ -1,4 +1,4 @@
-# Hi, I'm Haider
+# Hey, I'm Haider 👋
 
 <div align="center">
   <img src="giff.gif" alt="Building AI Systems" width="700"/>
@@ -14,44 +14,28 @@
 
 ---
 
-## About Me
+## Who I Am
 
-Passionate **Artificial Intelligence student** focused on building practical, real-world machine learning systems.
+I'm an AI student who genuinely enjoys the process of building things — not just running models, but understanding what's actually happening under the hood. My focus is on turning messy, real-world data into systems that do something useful.
 
-I specialize in:
-
-- Artificial Intelligence  
-- Machine Learning  
-- Deep Learning  
-- Natural Language Processing  
-- Computer Vision  
-- AI Security  
-
-I enjoy transforming raw data into intelligent systems that solve meaningful problems. My focus is not just on building models, but on understanding algorithms deeply and applying them effectively.
+Right now I'm deep into machine learning, computer vision, NLP, and AI security. I like working on problems where the stakes feel real and the solution isn't obvious.
 
 ---
 
-## My Journey
+## Where I'm At
 
-- Bachelor's student in **Artificial Intelligence**
-- Strong foundation in Python, NumPy, Pandas, and Machine Learning
-- Experience with regression models, ensemble learning, and deployment
-- Building end-to-end ML projects with data preprocessing, model comparison, evaluation, and web deployment
-- Currently advancing in:
-  - Advanced Machine Learning Algorithms  
-  - Model Optimization Techniques  
-  - AI Security concepts  
-  - Deep Learning architectures  
-
----
-
-## Current Position
-
-- Undergraduate Student — Bachelor in Artificial Intelligence (2023–2027)
+- 🎓 Undergraduate student — **Bachelor's in Artificial Intelligence** (2023–2027)
+- 🔨 Building end-to-end ML projects: data preprocessing → model training → evaluation → deployment
+- 📈 Comfortable with regression, ensemble methods, and pushing models to production
+- 🔍 Currently diving deeper into:
+  - Advanced ML algorithms & optimization
+  - Deep learning architectures
+  - AI security and model robustness
+  - Explainable AI
 
 ---
 
-## Tech Stack
+## Tech I Work With
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -70,42 +54,42 @@ I enjoy transforming raw data into intelligent systems that solve meaningful pro
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats"/>
 </div>
 
+<div align="center">
+
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge)
 
----
-
-## Featured Projects
-
-### Job Salary Prediction System  
-🔗 Live App: https://job-salary-prediction.streamlit.app/
-
-- End-to-end Machine Learning regression project  
-- Compared 10+ models including Random Forest, XGBoost, and Gradient Boosting  
-- Best Model: Gradient Boosting  
-- Deployed using Streamlit  
+</div>
 
 ---
 
-### Medical Insurance Cost Prediction System  
-🔗 Live App: https://medical-insurance-cost-prediction-system.streamlit.app/
+## Projects
 
-- Supervised regression system for predicting medical insurance charges  
-- Applied feature engineering and ensemble models  
-- Built interactive deployment with Streamlit  
+### 💼 Job Salary Prediction System
+🔗 [Live App](https://job-salary-prediction.streamlit.app/)
 
----
-
-## Areas of Interest
-
-- AI Security  
-- Model Robustness & Optimization  
-- Explainable AI  
-- Advanced Ensemble Learning  
-- Real-world ML Deployment  
+Built a full regression pipeline to predict job salaries, comparing 10+ models including Random Forest, XGBoost, and Gradient Boosting. The best-performing model (Gradient Boosting) was deployed as an interactive web app using Streamlit — from raw data all the way to a working product.
 
 ---
 
-## My Socials
+### 🏥 Medical Insurance Cost Prediction
+🔗 [Live App](https://medical-insurance-cost-prediction-system.streamlit.app/)
+
+A supervised learning system that predicts medical insurance charges based on patient data. Focused on feature engineering and ensemble methods, then wrapped it up in a clean Streamlit interface so anyone can actually use it.
+
+---
+
+## What I'm Interested In
+
+Beyond coursework, here's what genuinely excites me in AI:
+
+- **AI Security** — adversarial attacks, model robustness, and building systems that don't break easily
+- **Explainable AI** — making models interpretable, not just accurate
+- **Ensemble Learning** — understanding why combining models works so well
+- **Real-world Deployment** — bridging the gap between a notebook and a product people can use
+
+---
+
+## Let's Connect
 
 <div align="center">
 

@@ -24,10 +24,10 @@ Right now I'm deep into machine learning, computer vision, NLP, and AI security.
 
 ## Where I'm At
 
-- 🎓 Undergraduate student — **Bachelor's in Artificial Intelligence** (2023–2027)
-- 🔨 Building end-to-end ML projects: data preprocessing → model training → evaluation → deployment
-- 📈 Comfortable with regression, ensemble methods, and pushing models to production
-- 🔍 Currently diving deeper into:
+-  Undergraduate student — **Bachelor's in Artificial Intelligence** (2023–2027)
+-  Building end-to-end ML projects: data preprocessing → model training → evaluation → deployment
+-  Comfortable with regression, ensemble methods, and pushing models to production
+-  Currently diving deeper into:
   - Advanced ML algorithms & optimization
   - Deep learning architectures
   - AI security and model robustness
